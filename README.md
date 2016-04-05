@@ -1,4 +1,4 @@
-# open-backup-link
+# wp-node-open-backup-link
 pull links from google spreadsheet and open to initiate backup incrementally. 
 
 node portion of a cron job to run through links in a spreadsheet
